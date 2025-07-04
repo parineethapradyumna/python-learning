@@ -1,0 +1,8 @@
+p = input("enter a value of Price: ")
+r = input("enetr a value of rate of intrest: ")
+t = input("enter a time period: ")
+p=int(p)
+r = int(r)
+t = int (t)
+sum= (p*r*t/100)
+print("your value is: ", sum)

@@ -1,4 +1,4 @@
-n = input("Enter a number: ")
+n = input("Enter a value: ")
 n = int(n)
-sum = (n*(n+1)/2)**2
-print(f'The value of cube of {n} : {sum}')
+sum = (n * (n+1) / 2) ** 2
+print("your value is: ",sum)

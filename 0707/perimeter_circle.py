@@ -8,3 +8,6 @@ sum = (2*3.14*r)
 #We have to print the value
 print(f"The perimeter of a Circle is: {sum} Cm ")
 
+############OUTPUT###########
+# Enter the value of Radius(R): 7
+# The perimeter of a Circle is: 43.96 Cm

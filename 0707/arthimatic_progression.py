@@ -1,0 +1,8 @@
+a = input("Enter the value of first term(a):  ")
+n = input("Enter the value of Position(n):  ")
+d = input("Enter the value of Common Differance(d): ")
+a = int(a)
+n = int(n)
+d = int(d)
+sum = (a + (n-1)*d)
+print(f"This the value of your Arthimatic Progression: {sum}")

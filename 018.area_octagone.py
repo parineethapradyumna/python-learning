@@ -4,9 +4,9 @@ import math
 a = input("Enter the value of side(a): ")
 #convert the string to float
 a = float(a)
-#the formula for area of a Octagone
+# This is the formual of area of a Octagone
 sum = (2*(1+math.sqrt(2))*a**2)
-#print the statement
+# Print the statement
 print(f"The value of Area of a Octagone is: {sum} Cm")
 
 

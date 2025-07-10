@@ -4,7 +4,7 @@ import math
 a = input("Enter the value of side(a): ")
 # Convert the string to float
 a = float(a)
-#the formula for area of a pentagone
+# This is the formual of area of a pentagone
 sum = 1/4*math.sqrt (5*(5+2*math.sqrt(5)))*a**2
 # Print the output
 print(f"The value of Area of a pentagone is: {sum} Cm")

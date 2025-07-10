@@ -17,5 +17,5 @@ print(f"The value of Simple Intrest is: {sum}")
 ####OUTPUT####
 # Enter tthe principal amount: 10000
 # Enter the rate of intrest: 4
-# Enter the time period: 1
+# Enter the time period: 1 
 # The value of Simple Intrest is: 400.00

@@ -1,4 +1,4 @@
-# we are creating even number calculator
+# we are creating odd number calculator
 # we are asking the user to enter any number
 n = input("Enter a number: ")
 # converting the string to int

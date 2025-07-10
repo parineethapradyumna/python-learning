@@ -7,3 +7,8 @@ r = float(r)
 sum = 3.14*r**2
 # This is the output
 print(f"The value of area of circle is: {sum} Cm")
+
+
+####OUTPUT####
+# Enter the value of Radius(r): 6
+# The value of area of circle is: 113.04 Cm

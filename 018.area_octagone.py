@@ -1,4 +1,4 @@
-# We are creating the Area of a Octagone
+# We are creating the Area of a Octagone calculator
 #Asking the user to enter the value
 import math
 a = input("Enter the value of side(a): ")

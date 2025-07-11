@@ -24,3 +24,11 @@ else:
             print(f"Max = {b}")
         else:
             print(f"Max = {d}")
+
+
+####OUTPUT####
+# Enter a number: 9
+# Enter a number: 8
+# Enter a number: 5
+# Enter a number: 4
+# Max: 9

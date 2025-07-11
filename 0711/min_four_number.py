@@ -26,7 +26,8 @@ else:
             print(f"Min: {d}")
 
 
-####OUTPUT####
+####OUTPUT#####
+
 # Enter a number: 99
 # Enter a number: 84
 # Enter a number: 23

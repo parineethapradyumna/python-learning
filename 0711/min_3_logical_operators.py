@@ -12,3 +12,10 @@ elif b < a and b < c:
 
 elif c < a and c < b:
     print(f"Min = {c}")
+
+
+####OUTPUT####
+# Enter a number: 6
+# Enter a number: 4
+# Enter a number: 3
+# Min = 3

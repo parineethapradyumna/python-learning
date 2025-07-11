@@ -1,7 +1,12 @@
+# We are creating the maximum number 
+# Asking the user to enter the any two numbers in a and b 
 a = int(input("Enter a number(a): "))
 b = int(input("Enter a numnber(b): "))
+# if a is greater than b
 if a > b:
+# Then the maxmium number will be "a" Value,show in the output
     print(f"max = {a}")
+# Or else it it show "b" value
 else:
     print(f"max = {b}")
 

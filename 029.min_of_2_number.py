@@ -9,3 +9,14 @@ if a < b:
 # Or else it it show "b" value
 else:
     print(f"min = {b}")
+
+####OUTPUT####
+# Enter a number(a): 9
+# Enter a numnber(b): 6
+# min = 6
+
+######
+
+# Enter a number(a): 5
+# Enter a numnber(b): 8
+# min = 5

@@ -26,5 +26,5 @@ else:
 ####OUTPUT####
 # Enter a number(a): 7
 # Enter a number(b): 5
-# Enter a number(c): 2
-# Max = 7
+# Enter a number(c): 2 
+# Max = 7 

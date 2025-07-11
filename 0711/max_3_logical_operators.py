@@ -10,3 +10,10 @@ elif b>a and b>c:
 
 elif c>a and c>b:
     print(f"Max = {c}")
+
+
+####OUTPUT####
+# Enter a number: 7
+# Enter a number: 8
+# Enter a number: 3
+# Max: 8

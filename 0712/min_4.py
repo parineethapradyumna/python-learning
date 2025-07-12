@@ -26,3 +26,11 @@ else:
             print(f"Min: {c}")
         else:
             print(f"Min: {d}")
+
+
+#####OUTPUT#####
+# Enter a number: 2
+# Enter a number: 3
+# Enter a number: 4
+# Enter a number: 1
+# Min = 1

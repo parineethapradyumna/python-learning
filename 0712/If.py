@@ -4,3 +4,4 @@ if age >=18:
     print(f"Hi {name}, Your are eligible to vote")
 
 print("ThankYou")
+

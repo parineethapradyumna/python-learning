@@ -5,3 +5,12 @@ if age >=18:
 
 print("ThankYou")
 
+####OUTPUT#####
+# Enter your name: Parineetha
+# Enter your age: 12
+# ThankYou
+# #######
+# Enter your name: charan
+# Enter your age: 57
+# Hi charan, Your are eligible to vote
+# ThankYou

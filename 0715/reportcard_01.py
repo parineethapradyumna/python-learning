@@ -21,3 +21,21 @@ print(f"Marks 3: {marks_3}")
 print(f"Total  : {total} ")
 print(f"Percentage: {avg}")
 print(f"Status : {status}")
+
+
+
+
+####OUTPUT####
+# Enter marks 1: 56
+# Enter marks 2: 79
+# Enter marks 3: 98
+               
+               
+# --Report Card--
+               
+# Marks 1: 56
+# Marks 2: 79
+# Marks 3: 98
+# Total  : 233 
+# Percentage: 77.66666666666667
+# Status : PASS

@@ -1,7 +1,8 @@
-n = int(input("Enter a number: "))
+n = int(input("Enterr: "))
 sum = 0
-for i in range(1,(2*n)+1,2):
-    sum = sum+i
+while i<=n:
+    i = i+1
+    sum = sum +i
     print(f"Sum = {sum}")
 
 

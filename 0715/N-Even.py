@@ -12,3 +12,4 @@ for i in range(2,(2*n)+1,2):
 # Sum = 12
 # Sum = 20
 # Sum = 30
+

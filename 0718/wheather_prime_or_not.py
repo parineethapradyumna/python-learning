@@ -1,30 +1,39 @@
-#For loop
-n = int(input("Enter a number: "))
-flag = True
-for i in range(2,n//2,1):
-    if (n%i==0):
-        flag = False
-        break
-if (flag==True):
-    print(f"It is a prime")
-else:
-    print(f"Not a prime")
+# #For loop
+# n = int(input("Enter a number: "))
+# flag = True
+# for i in range(2,n//2,1):
+#     if (n%i==0):
+#         flag = False
+#         break
+# if (flag==True):
+#     print(f"It is a prime")
+# else:
+#     print(f"Not a prime")
 
 
 
 
-#While Loop
-n = int(input("Enter a number: "))
-flag = True
-i = 2
+# #While Loop
+# n = int(input("Enter a number: "))
+# flag = True
+# i = 2
 
-while i <= n // 2:
-    if n % i == 0:
-        flag = False
-        break
-    i += 1
+# while i <= n // 2:
+#     if n % i == 0:
+#         flag = False
+#         break
+#     i += 1
 
-if flag == True:
-    print("It is a prime")
-else:
-    print("Not a prime")
+# if flag == True:
+#     print("It is a prime")
+# else:
+#     print("Not a prime")
+
+rows = 5
+row = 1
+while(row<= rows):
+    column = 1
+    while (column <= row):
+        print("*",end=" ")
+        column+=1 
+        print()

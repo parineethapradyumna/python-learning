@@ -26,6 +26,3 @@ for i in range(length):
 # 6
 # 5
 # 4
-
-
-

@@ -1,7 +1,7 @@
 rows = 5
 row = 1
 while row<= rows:
-    
+
     u_col =1
     while u_col <= rows-row:
         print("",end = " ")
@@ -16,7 +16,7 @@ while row<= rows:
     row = row+1
 
 
-####OUTPUT#####
+####OUTPUT####
 #     * 
 #    * * 
 #   * * * 
